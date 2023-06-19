@@ -26,4 +26,8 @@ Check out the project on GitHub: [Geo App](https://github.com/nodenwwsfww/geo-ap
 - ![image](https://github.com/nodenwwsfww/nodenwwsfww/assets/54706661/bafbec47-2e90-41d9-a106-0affba1f47ab)
 
   https://www.figma.com/file/VL15V8L5rCjiSxmWJP7NhX/Beats?type=design&node-id=0%3A1&t=1twb9rOK1jf4ucBW-1
+
+### 3. Booking management platform (HTML+CSS+JS React)
+![image](https://github.com/nodenwwsfww/nodenwwsfww/assets/54706661/7c2ab0d4-c14e-4bf4-acc6-1e73f42ffffa)
+
 - 📫 How to reach me: romanradchenko.work@gmail.com
