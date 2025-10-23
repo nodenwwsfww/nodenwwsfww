@@ -15,7 +15,7 @@ Check out the project on GitLab: [Nike Shoes](https://gitlab.com/nodenwwsfww/nik
 ---
 
 ### 2. Booking management platform (HTML+CSS+JS React)
-![image](https://github.com/nodenwwsfww/nodenwwsfww/assets/54706661/d5f9ef2c-443c-43f7-b97e-6bc432b72af5)
+![image](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9cd99448-5009-4b88-8b7c-c9177ab19cba" />)
 
 
 - 📫 How to reach me: romanradchenko.work@gmail.com
