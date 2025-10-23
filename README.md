@@ -6,7 +6,7 @@ My project and their links
 
 ### 1. Nike Shoes (HTML+CSS+JS on JS components)
 Mobile-first approach.
-For this project, I aimed to gain a deeper understanding of how frameworks like Svelte and Vue function, which led me to use custom JS components. However, in general, I tend to prefer popular frameworks like Vue, React, and Svelte.
+For this project, I set out to gain a deeper understanding of how modern frameworks like React and Vue work under the hood. To achieve this, I built the entire application without using any frameworks, relying solely on custom JavaScript functions and a self-implemented rendering system.
 
 ![Nike Shoes Project](https://github.com/nodenwwsfww/nodenwwsfww/assets/54706661/5472419d-aa33-416b-a118-b2c5878dbea3)
 
