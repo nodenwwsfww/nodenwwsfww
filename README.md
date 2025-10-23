@@ -14,7 +14,7 @@ Check out the project on GitLab: [Nike Shoes](https://gitlab.com/nodenwwsfww/nik
 
 ---
 
-### 2. Booking management platform (HTML+CSS+JS React)[
+### 2. Booking management platform (HTML+CSS+JS React)
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/44593088-7328-4b88-b818-dd8f48da5147" />
 
 
